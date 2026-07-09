@@ -121,6 +121,14 @@ nav a,.main-nav a{border:1px solid var(--dna-line);padding:8px 9px!important}
 .button,.apply-btn{border-radius:0!important}
 .card,.category-card,.post-card{border-radius:0!important;box-shadow:5px 5px 0 var(--dna-line)!important}
 
+
+.site-header{align-items:stretch!important;background:#fffdf7!important}
+.site-header .brand,.site-header > .brand{border-right:2px solid var(--dna-ink);padding-right:18px!important}
+.site-header nav{justify-content:flex-start!important;align-content:center!important}
+.hero{grid-template-columns:.64fr 1.36fr!important;min-height:540px!important}
+.grid{grid-template-columns:repeat(5,minmax(0,1fr))!important}
+.post-grid{grid-template-columns:1fr 1fr!important}
+
 @media (max-width:980px){
   .hero,.split,.feature-row,.intro-grid,.story-grid,.form-section,.split-section,.article-layout{grid-template-columns:1fr!important}
   .services-grid,.solution-grid,.category-grid,.collection-grid,.post-grid,.article-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
