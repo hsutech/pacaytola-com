@@ -1,17 +1,17 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-14T00:00:00+02:00",
+  "updated_at": "2026-07-14T16:49:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
       "priority": "Alta",
-      "status": "draft_ready_for_deploy",
+      "status": "published",
       "slug": "mejores-tiendas-moda-sostenible-gijon",
       "title": "Mejores tiendas de moda sostenible en Gijón: guía local para comprar mejor",
       "url": "https://pacaytola.com/blog/mejores-tiendas-moda-sostenible-gijon/",
       "selected_at": "2026-07-14",
-      "published_at": null,
-      "commit": null,
+      "published_at": "2026-07-14",
+      "commit": "209b481",
       "serp_observations": {
         "market": "Google ES / Gijón y Asturias",
         "language": "Español",
