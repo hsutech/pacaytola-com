@@ -1,0 +1,42 @@
+{
+  "domain": "pacaytola.com",
+  "updated_at": "2026-07-14T00:00:00+02:00",
+  "items": [
+    {
+      "keyword": "mejores tiendas de moda sostenible en Gijón",
+      "priority": "Alta",
+      "status": "draft_ready_for_deploy",
+      "slug": "mejores-tiendas-moda-sostenible-gijon",
+      "title": "Mejores tiendas de moda sostenible en Gijón: guía local para comprar mejor",
+      "url": "https://pacaytola.com/blog/mejores-tiendas-moda-sostenible-gijon/",
+      "selected_at": "2026-07-14",
+      "published_at": null,
+      "commit": null,
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP exacta no devuelve un listicle local robusto; predominan resultados informativos sobre moda sostenible, moda circular, prensa sectorial y páginas generales. Gap editorial: guía local BOFU con criterios de elección, señales anti-greenwashing y opciones verificables sin inventar rankings ni reseñas.",
+        "intent": "Comercial local con necesidad de comparación y criterios de compra.",
+        "page_types": ["definiciones informativas", "prensa sectorial", "guías de sostenibilidad", "resultados locales dispersos"],
+        "coverage_gaps": ["poca cobertura específica de Gijón", "falta de criterios prácticos de tienda", "riesgo de rankings sin evidencia", "escasa explicación de greenwashing para compradores locales"]
+      },
+      "sources": [
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.europarl.europa.eu/topics/en/article/20201208STO93327/the-impact-of-textile-production-and-waste-on-the-environment-infographics",
+        "https://www.unep.org/news-and-stories/story/putting-brakes-fast-fashion"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/tienda-online/",
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/categoria/accesorios/",
+        "https://pacaytola.com/guia-de-tallas/"
+      ],
+      "featured_image": "/assets/mejores-tiendas-moda-sostenible-gijon.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before deploy: no fabricated reviews, prices, experts or local competitor ranking; direct answer and BOFU criteria included.",
+        "seo": "Unique title/H1, meta description, canonical, OG image, Article and FAQ schema, internal/external links, sitemap and blog index updated."
+      }
+    }
+  ]
+}
