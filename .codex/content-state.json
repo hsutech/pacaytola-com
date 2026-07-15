@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-14T16:49:00+02:00",
+  "updated_at": "2026-07-15T16:56:01+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -36,6 +36,66 @@
       "review": {
         "editorial": "Second-pass review completed before deploy: no fabricated reviews, prices, experts or local competitor ranking; direct answer and BOFU criteria included.",
         "seo": "Unique title/H1, meta description, canonical, OG image, Article and FAQ schema, internal/external links, sitemap and blog index updated."
+      }
+    },
+    {
+      "keyword": "mejores boutiques en Gijón",
+      "priority": "Alta",
+      "status": "published",
+      "slug": "mejores-boutiques-gijon",
+      "title": "Mejores boutiques en Gijón: guía local para comprar con criterio",
+      "url": "https://pacaytola.com/blog/mejores-boutiques-gijon/",
+      "selected_at": "2026-07-15",
+      "published_at": "2026-07-15",
+      "commit": "d4380a6",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP para la keyword local no muestra una comparativa editorial sólida de boutiques concretas. Mezcla resultados generales de comercio local, prensa local, definiciones de boutique, páginas informativas sobre zonas comerciales de Gijón y resultados no locales. Gap editorial: guía BOFU con criterios de elección, zonas de búsqueda, tipos de boutique y señales prácticas sin inventar rankings, reseñas ni reputación de competidores.",
+        "intent": "Comercial local con necesidad de orientación previa a visita o compra.",
+        "page_types": [
+          "prensa local sobre comercio",
+          "páginas informativas de zonas comerciales",
+          "definiciones",
+          "resultados locales dispersos",
+          "noticias de moda no locales"
+        ],
+        "coverage_gaps": [
+          "poca cobertura específica de boutiques de Gijón",
+          "ausencia de criterios comparables para elegir tienda",
+          "riesgo de listados con opiniones no verificables",
+          "escasa explicación de zonas, tallaje, cambios y compra útil"
+        ]
+      },
+      "sources": [
+        "https://dle.rae.es/boutique",
+        "https://es.wikipedia.org/wiki/Calle_Corrida",
+        "https://cadenaser.com/asturias/2026/05/14/mas-de-cuatro-millones-y-medio-hasta-final-de-mandato-para-fortalecer-el-comercio-de-gijon-ser-gijon/",
+        "https://cadenaser.com/asturias/2026/04/28/gijon-compra-y-vuelve-permite-conocer-el-comercio-gijones-barrio-a-barrio-ser-gijon/"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/categoria/accesorios/",
+        "https://pacaytola.com/tienda-online/"
+      ],
+      "featured_image": "/assets/mejores-boutiques-gijon.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before deploy: no fabricated rankings, reviews, prices, experts or personal experience; the article uses transparent criteria, local shopping context and a discreet company mention.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, table of contents, comparison table, internal/external links, blog index and sitemap updated."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-15T16:56:01+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article",
+          "desktop and mobile render without horizontal overflow"
+        ]
       }
     }
   ]
