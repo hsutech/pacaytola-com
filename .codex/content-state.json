@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-15T16:56:01+02:00",
+  "updated_at": "2026-07-16T16:43:02+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -87,6 +87,67 @@
       "verification": {
         "status": "verified_published",
         "verified_at": "2026-07-15T16:56:01+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article",
+          "desktop and mobile render without horizontal overflow"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores marcas de moda sostenible para mujer",
+      "priority": "Alta",
+      "status": "published",
+      "slug": "mejores-marcas-moda-sostenible-mujer",
+      "title": "Mejores marcas de moda sostenible para mujer: 10 opciones para comprar con criterio",
+      "url": "https://pacaytola.com/blog/mejores-marcas-moda-sostenible-mujer/",
+      "selected_at": "2026-07-16",
+      "published_at": "2026-07-16",
+      "commit": "0065a93",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP para la keyword exacta aparece mixta: noticias sectoriales recientes sobre sostenibilidad y textil, páginas informativas de moda sostenible, resultados tipo wiki y poca comparativa editorial sólida centrada en marcas de mujer. Gap editorial: listicle BOFU con método claro, marcas concretas, tabla de decisión, criterios anti-greenwashing y advertencias para no confundir transparencia con sostenibilidad absoluta.",
+        "intent": "Comercial / transaccional con necesidad de comparar marcas antes de comprar.",
+        "page_types": [
+          "noticias sectoriales",
+          "páginas informativas sobre moda sostenible",
+          "resultados de marcas o perfiles de marca",
+          "guías generales de sostenibilidad",
+          "listicles dispersos no siempre centrados en mujer"
+        ],
+        "coverage_gaps": [
+          "pocas comparativas con método de elección",
+          "escasa separación entre transparencia, materiales y durabilidad",
+          "riesgo de rankings con claims no verificables",
+          "falta de enfoque práctico por tipo de prenda y coste por uso"
+        ]
+      },
+      "sources": [
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.europarl.europa.eu/topics/en/article/20201208STO93327/the-impact-of-textile-production-and-waste-on-the-environment-infographics",
+        "https://www.fashionrevolution.org/transparency/"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/categoria/accesorios/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/tienda-online/"
+      ],
+      "featured_image": "/assets/mejores-marcas-moda-sostenible-mujer.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before deploy: no fabricated reviews, prices, experts or personal experience; brand mentions are framed as options to compare and claims are limited to public positioning and practical buying criteria.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, table of contents, comparison table, internal/external links, blog index and sitemap updated."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-16T16:43:02+02:00",
         "checks": [
           "custom domain HTTP 200",
           "expected H1 present",
