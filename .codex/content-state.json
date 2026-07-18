@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-16T16:43:02+02:00",
+  "updated_at": "2026-07-18T16:58:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -156,6 +156,86 @@
           "blog index contains article",
           "sitemap contains article",
           "desktop and mobile render without horizontal overflow"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores tiendas de moda lenta en España",
+      "priority": "Alta",
+      "status": "published",
+      "slug": "mejores-tiendas-moda-lenta-espana",
+      "title": "Mejores tiendas de moda lenta en España: 10 opciones para comprar con criterio",
+      "url": "https://pacaytola.com/blog/mejores-tiendas-moda-lenta-espana/",
+      "selected_at": "2026-07-18",
+      "published_at": "2026-07-18",
+      "commit": "514dafd",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual para la keyword exacta es eminentemente comercial: aparecen tiendas online, marcas slow fashion, concept stores, tiendas solidarias/circulares y algún directorio, con escasa comparativa editorial independiente. Gap editorial: listicle BOFU que separa directorios, marketplaces, boutiques físicas, multimarca y marca-tienda, con criterios de decisión y cautelas anti-greenwashing.",
+        "intent": "Comercial / transaccional con necesidad de comparar tiendas antes de comprar.",
+        "page_types": [
+          "tiendas online de ropa sostenible",
+          "marcas slow fashion con tienda propia",
+          "concept stores y boutiques físicas",
+          "directorios o guías de compra responsable",
+          "tiendas de segunda mano y economía circular"
+        ],
+        "top_relevant_results": [
+          "Fieito",
+          "Females'Energy",
+          "Atopia Brand",
+          "Judith Bel",
+          "María Cristina 8",
+          "Humpier",
+          "AWOL",
+          "The Goood Shop",
+          "Koopera",
+          "andrea martínez",
+          "The Circular Project",
+          "Neu de Cotó"
+        ],
+        "coverage_gaps": [
+          "pocas guías comparativas independientes centradas en tiendas",
+          "muchas páginas hablan desde su propia tienda o marca",
+          "escasa separación entre moda lenta, moda sostenible, vegana y segunda mano",
+          "pocos criterios prácticos sobre tallaje, devoluciones, durabilidad y coste por uso",
+          "riesgo de claims sostenibles genéricos sin explicar límites"
+        ]
+      },
+      "sources": [
+        "https://fieito.com/",
+        "https://thegooodshop.com/",
+        "https://cosh.eco/es/marcas-moda-sostenible-espanolas-donde-comprar",
+        "https://almamarket.com/",
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
+        "https://www.unep.org/topics/chemicals-and-pollution-action/circularity-sectors/sustainable-and-circular-textiles"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/categoria/accesorios/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/tienda-online/"
+      ],
+      "featured_image": "/assets/mejores-tiendas-moda-lenta-espana.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before deploy: no fabricated reviews, prices, experts or personal experience; store mentions are framed as options to compare and claims are limited to public positioning and practical buying criteria.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, table of contents, comparison table, internal/external links, blog index and sitemap updated."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-18T16:58:00+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image correct",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article",
+          "desktop and mobile screenshots inspected"
         ]
       }
     }
