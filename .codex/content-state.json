@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-18T16:58:00+02:00",
+  "updated_at": "2026-07-20T15:26:03+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -236,6 +236,81 @@
           "blog index contains article",
           "sitemap contains article",
           "desktop and mobile screenshots inspected"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores prendas atemporales para mujer",
+      "priority": "Alta",
+      "status": "published",
+      "slug": "mejores-prendas-atemporales-mujer",
+      "title": "Mejores prendas atemporales para mujer: 10 básicos para comprar con criterio",
+      "url": "https://pacaytola.com/blog/mejores-prendas-atemporales-mujer/",
+      "selected_at": "2026-07-19",
+      "published_at": "2026-07-19",
+      "commit": "f94fa45",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual para la keyword es principalmente editorial y de compras: predominan listicles de armario cápsula y prendas básicas en Vogue, Marie Claire, El País Escaparate, Hola, Deia y otros medios. La mayoría usa fotos editoriales, autoría visible y extensiones aproximadas de 900-2.000 palabras, con estructuras por pieza o por temporada. Gap editorial: guía BOFU sin afiliación, centrada en decisión de compra, coste por uso, clima real, calidad visible y evitar comprar todos los básicos de golpe.",
+        "intent": "Comercial / transaccional con necesidad de decidir qué prendas comprar antes de comparar marcas concretas.",
+        "page_types": [
+          "listicles editoriales de armario cápsula",
+          "páginas de compras con enlaces de afiliación",
+          "guías por temporada",
+          "artículos de estilo con autoría visible",
+          "listas de básicos y complementos"
+        ],
+        "top_relevant_results": [
+          "Vogue España: 12 prendas atemporales para fondo de armario",
+          "Marie Claire España: prendas atemporales para 2026",
+          "El País Escaparate: 10 prendas y 15 looks de armario cápsula",
+          "Vogue España: armario cápsula perfecto",
+          "Hola: 9 prendas y accesorios atemporales",
+          "Deia: armario cápsula de primavera"
+        ],
+        "coverage_gaps": [
+          "muchas listas recomiendan piezas sin explicar cómo decidir si encajan con la vida real",
+          "alta presencia de afiliación y selección de productos concretos",
+          "poca adaptación a clima norte / Gijón y Asturias",
+          "pocos criterios de calidad visibles antes de comprar",
+          "riesgo de presentar el armario cápsula como compra completa en vez de inventario progresivo"
+        ]
+      },
+      "sources": [
+        "https://www.vogue.es/moda/galerias/prendas-basicas-rebajas-fondo-de-armario-verano-2019",
+        "https://www.marie-claire.es/moda/prendas-atemporales-fondo-de-armario-2026.html",
+        "https://elpais.com/escaparate/estilo-de-vida/armario-capsula-verano.html",
+        "https://www.hola.com/moda/20260330892612/prendas-accesorios-atemporales-armario-capsula-looks/",
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.fashionrevolution.org/transparency/",
+        "https://www.wrap.ngo/resources/report/measuring-active-life-clothing"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/categoria/accesorios/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/tienda-online/"
+      ],
+      "featured_image": "/assets/mejores-prendas-atemporales-mujer.jpg",
+      "review": {
+        "editorial": "Draft created from current SERP analysis with no fabricated reviews, prices, experts or personal experience; article uses transparent decision criteria, practical checks and a discreet company mention.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, table of contents, comparison table, internal/external links, blog index and sitemap updated."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-20T15:26:03+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image correct",
+          "featured image returned image/jpeg",
+          "blog index contains article",
+          "sitemap contains article",
+          "desktop local render inspected"
         ]
       }
     }
