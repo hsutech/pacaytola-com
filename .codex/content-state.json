@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-23T00:00:00+02:00",
+  "updated_at": "2026-07-23T16:41:16+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -317,12 +317,14 @@
     {
       "keyword": "mejores zapatos cómodos para mujer",
       "priority": "Alta",
-      "status": "ready_for_deploy",
+      "status": "published",
       "slug": "mejores-zapatos-comodos-mujer",
       "title": "Mejores zapatos cómodos para mujer: 10 opciones para caminar sin renunciar al estilo",
       "url": "https://pacaytola.com/blog/mejores-zapatos-comodos-mujer/",
       "selected_at": "2026-07-23",
       "prepared_at": "2026-07-23",
+      "published_at": "2026-07-23",
+      "commit": "951e532",
       "serp_observations": {
         "market": "Google ES / Gijón y Asturias",
         "language": "Español",
@@ -370,6 +372,20 @@
       "review": {
         "editorial": "Second-pass review completed before deploy: no fabricated reviews, prices, experts or personal experience; article uses transparent criteria, practical comfort checks and a discreet company mention.",
         "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, table of contents, comparison table, internal/external links, blog index and sitemap updated. No duplicate slug or direct cannibalization against existing blog articles."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-23T16:41:16+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image correct",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article",
+          "desktop and mobile live render without horizontal overflow"
+        ]
       }
     }
   ]
