@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-20T15:26:03+02:00",
+  "updated_at": "2026-07-23T00:00:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -312,6 +312,64 @@
           "sitemap contains article",
           "desktop local render inspected"
         ]
+      }
+    },
+    {
+      "keyword": "mejores zapatos cómodos para mujer",
+      "priority": "Alta",
+      "status": "ready_for_deploy",
+      "slug": "mejores-zapatos-comodos-mujer",
+      "title": "Mejores zapatos cómodos para mujer: 10 opciones para caminar sin renunciar al estilo",
+      "url": "https://pacaytola.com/blog/mejores-zapatos-comodos-mujer/",
+      "selected_at": "2026-07-23",
+      "prepared_at": "2026-07-23",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual combina comparativas BOFU de zapatillas para caminar, páginas de reviews con pruebas o laboratorio, guías editoriales de tacones cómodos y listados de tiendas/marcas. Predominan artículos con autoría visible, tablas o módulos comparativos, imágenes de producto y FAQs; la cobertura suele separar poco el uso real, el clima local, la horma, la sujeción y la compra online antes de escoger modelo.",
+        "intent": "Comercial / transaccional con necesidad de elegir tipo de calzado cómodo antes de comparar marca o modelo concreto.",
+        "page_types": [
+          "comparativas de zapatillas probadas",
+          "reviews con laboratorio o experiencia editorial",
+          "guías de tacones cómodos",
+          "listados de marcas y producto",
+          "artículos de moda estacional"
+        ],
+        "top_relevant_results": [
+          "El País Escaparate: comparativa de zapatillas para caminar, con autor, precios, tabla y metodología de prueba",
+          "RunRepeat: guía de zapatillas de caminar para mujer con datos de laboratorio, categorías y multimedia",
+          "Vogue España: artículo editorial sobre zapatos de tacón cómodo para verano 2026",
+          "Carrile: guía comercial sobre tacones cómodos y marcas de mujer",
+          "Runnea: listado actualizado de zapatillas de mujer para caminar por asfalto y montaña"
+        ],
+        "coverage_gaps": [
+          "muchas páginas tratan zapatillas o tacones por separado, no el conjunto de opciones de calzado diario",
+          "alta presencia de afiliación, precios y rankings de producto que pueden caducar",
+          "poca adaptación a lluvia, cuestas y uso urbano del norte de España",
+          "escasa explicación práctica para comprar online sin inventar pruebas propias",
+          "falta de tabla de decisión por ocasión, horma, suela y soporte"
+        ]
+      },
+      "sources": [
+        "https://elpais.com/escaparate/comparativas/2026-01-09/mejores-zapatillas-para-caminar.html",
+        "https://runrepeat.com/es/guias/las-mejores-zapatillas-para-caminar-de-mujer",
+        "https://www.vogue.es/articulos/zapatos-tacon-comodo-modelos-en-tendencia-verano-2026",
+        "https://www.carrile.es/blog/moda/cuales-son-tacones-mas-comodos-marcas/",
+        "https://www.runnea.com/articulos/entrenamiento-running/2021/04/mejores-zapatillas-mujer-para-andar-7172/",
+        "https://health.clevelandclinic.org/how-to-find-the-best-walking-shoes",
+        "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/blog/mejores-prendas-atemporales-mujer/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/tienda-online/",
+        "https://pacaytola.com/cambios-y-devoluciones/"
+      ],
+      "featured_image": "/assets/mejores-zapatos-comodos-mujer.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before deploy: no fabricated reviews, prices, experts or personal experience; article uses transparent criteria, practical comfort checks and a discreet company mention.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, table of contents, comparison table, internal/external links, blog index and sitemap updated. No duplicate slug or direct cannibalization against existing blog articles."
       }
     }
   ]
