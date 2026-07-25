@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-23T16:41:16+02:00",
+  "updated_at": "2026-07-25T16:24:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -385,6 +385,84 @@
           "blog index contains article",
           "sitemap contains article",
           "desktop and mobile live render without horizontal overflow"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores marcas de ropa ética",
+      "priority": "Alta",
+      "status": "published",
+      "slug": "mejores-marcas-ropa-etica",
+      "title": "Mejores marcas de ropa ética: 10 opciones para comprar con criterio",
+      "url": "https://pacaytola.com/blog/mejores-marcas-ropa-etica/",
+      "selected_at": "2026-07-25",
+      "prepared_at": "2026-07-25",
+      "published_at": "2026-07-25",
+      "commit": "1a8ca2f",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual mezcla listicles editoriales de moda ética o sostenible, tiendas online, marcas propias y páginas institucionales/sectoriales. Predominan páginas comerciales o editoriales de 900-2.000 palabras aproximadas, con autoría visible en medios, imágenes de producto o marca y poca separación entre sostenibilidad ambiental, ética laboral, trazabilidad y consumo real.",
+        "intent": "Comercial / transaccional con necesidad de comparar marcas antes de comprar y filtrar claims éticos.",
+        "page_types": [
+          "listicles editoriales de marcas sostenibles o éticas",
+          "tiendas online de ropa sostenible y moda ética",
+          "páginas de marca con claims de sostenibilidad",
+          "guías anti-greenwashing y transparencia",
+          "fuentes sectoriales sobre impacto textil y salarios"
+        ],
+        "top_relevant_results": [
+          "Pearls Magazine: listicle de 6 marcas españolas de moda ética con autoría y enfoque editorial",
+          "Torit@s: tienda/marca de moda ética sostenible con proyecto social, upcycling y alianzas",
+          "Miu Sutin: marca de ropa ecológica, ética y sostenible para mujer con confección en Barcelona",
+          "Thinking Mu: página de sostenibilidad con fibras, proveedores, certificaciones y trazabilidad",
+          "Brava Fabrics/Hemper y otros listicles de moda sostenible española",
+          "Fashion Revolution, European Commission, EEA y Clean Clothes Campaign para criterios de transparencia, circularidad y salarios"
+        ],
+        "coverage_gaps": [
+          "muchas páginas mezclan moda sostenible y ropa ética sin explicar la diferencia",
+          "pocas comparativas separan trazabilidad, condiciones de producción, materiales, durabilidad y coste por uso",
+          "alta presencia de claims comerciales o afiliación con riesgo de caducidad",
+          "escasez de advertencias prácticas contra greenwashing y social washing",
+          "poca orientación para comprar menos y mejor desde una boutique multimarca independiente"
+        ]
+      },
+      "sources": [
+        "https://pearlsmagazine.com/es/6-marcas-de-moda-etica-espanola/",
+        "https://www.miusutin.com/",
+        "https://thinkingmu.com/pages/sustainability",
+        "https://toritas.es/",
+        "https://www.eea.europa.eu/en/analysis/publications/circularity-of-the-eu-textiles-value-chain-in-numbers",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.fashionrevolution.org/transparency/",
+        "https://cleanclothes.org/campaigns/europe-floor-wage/living-wage-film"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/blog/mejores-prendas-atemporales-mujer/",
+        "https://pacaytola.com/cambios-y-devoluciones/",
+        "https://pacaytola.com/categoria/accesorios/",
+        "https://pacaytola.com/categoria/calzado/"
+      ],
+      "featured_image": "/assets/mejores-marcas-ropa-etica.jpg",
+      "review": {
+        "editorial": "Second-pass review completed after SERP reconciliation: no fabricated reviews, prices, experts or personal experience; brand mentions are framed as options to compare and claims are limited to public positioning and practical buying criteria.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, table of contents, comparison table, internal/external links, YouTube embed, blog index and sitemap updated. No duplicate slug or direct cannibalization against existing blog articles."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-25T16:24:00+02:00",
+        "attempts": 2,
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "publication date 2026-07-25 present",
+          "Open Graph image correct",
+          "featured image returned image/jpeg and rendered source available",
+          "blog index contains article",
+          "sitemap contains article with 2026-07-25 lastmod",
+          "local desktop/mobile responsive risk checks passed by stable dimensions and no large fixed widths"
         ]
       }
     }
