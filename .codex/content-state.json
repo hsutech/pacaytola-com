@@ -399,6 +399,7 @@
       "prepared_at": "2026-07-25",
       "published_at": "2026-07-25",
       "commit": "1a8ca2f",
+      "fix_commit": "5e53d40",
       "serp_observations": {
         "market": "Google ES / Gijón y Asturias",
         "language": "Español",
@@ -462,7 +463,8 @@
           "featured image returned image/jpeg and rendered source available",
           "blog index contains article",
           "sitemap contains article with 2026-07-25 lastmod",
-          "local desktop/mobile responsive risk checks passed by stable dimensions and no large fixed widths"
+          "local desktop/mobile responsive risk checks passed by stable dimensions and no large fixed widths",
+          "live desktop and mobile Chrome headless screenshots inspected after responsive fix"
         ]
       }
     }
