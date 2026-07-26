@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-25T16:24:00+02:00",
+  "updated_at": "2026-07-26T17:23:27+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -465,6 +465,86 @@
           "sitemap contains article with 2026-07-25 lastmod",
           "local desktop/mobile responsive risk checks passed by stable dimensions and no large fixed widths",
           "live desktop and mobile Chrome headless screenshots inspected after responsive fix"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores vestidos sostenibles",
+      "priority": "Alta",
+      "status": "published",
+      "slug": "mejores-vestidos-sostenibles",
+      "title": "Mejores vestidos sostenibles: 10 opciones con criterio",
+      "url": "https://pacaytola.com/blog/mejores-vestidos-sostenibles/",
+      "selected_at": "2026-07-26",
+      "prepared_at": "2026-07-26",
+      "published_at": "2026-07-26",
+      "commit": "70d8d11",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual para la keyword mezcla categorías ecommerce de vestidos sostenibles, páginas de marca, marcas slow fashion y listicles de moda sostenible española. Predominan páginas comerciales con filtros/precios o artículos de marcas de 900-2.000 palabras aproximadas, con imágenes de producto, autoría visible en medios y poca orientación para elegir el tipo de vestido por uso real antes de comprar.",
+        "intent": "Comercial / transaccional con necesidad de elegir vestido sostenible antes de comparar marca o modelo concreto.",
+        "page_types": [
+          "categorías ecommerce de vestidos y monos sostenibles",
+          "páginas de marca con vestidos GOTS o sostenibles",
+          "marcas slow fashion con producción limitada",
+          "listicles de marcas españolas sostenibles",
+          "fuentes sectoriales sobre impacto textil, transparencia y circularidad"
+        ],
+        "top_relevant_results": [
+          "Bonprix: categoría de vestidos y monos sostenibles con filtros, tallas, colores y precios",
+          "SKFK: categoría de vestidos sostenibles con modelos GOTS y filtros de compra",
+          "IO Dreams: marca slow fashion made in Spain con talleres de cercanía y tejidos sostenibles o excedentes",
+          "Essencialis: guía amplia de marcas españolas de moda sostenible",
+          "La Razón: listicle editorial de marcas españolas sostenibles",
+          "Esturirafi: listicle de marcas españolas de moda sostenible"
+        ],
+        "coverage_gaps": [
+          "muchas páginas venden producto sin explicar qué tipo de vestido conviene comprar",
+          "poca separación entre tejido sostenible, producción ética, circularidad y uso real",
+          "alta presencia de claims comerciales o rebajas con riesgo de caducidad",
+          "escasa adaptación a clima norte, capas, repetición y coste por uso",
+          "pocas guías plantean segunda mano o alquiler como opción más sensata para ocasiones puntuales"
+        ]
+      },
+      "sources": [
+        "https://www.bonprix.es/categoria/742036/vestidos-y-monos-sostenibles/",
+        "https://www.skfk-ethical-fashion.com/es/vestidos-sostenibles/",
+        "https://iodreams.com/",
+        "https://essencialis.es/guia-marcas-espanolas-ropa-sostenible/",
+        "https://www.larazon.es/lifestyle/moda/8-marcas-espanolas-sostenibles-que-debes-conocer-este-2024_2024012265ad6506014c8a0001dad488.html",
+        "https://www.esturirafi.com/2017/04/11-marcas-espanolas-de-moda-sostenible.html",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://www.fashionrevolution.org/transparency/",
+        "https://ed.ted.com/lessons/the-life-cycle-of-a-t-shirt-angel-chang"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/blog/mejores-prendas-atemporales-mujer/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/categoria/accesorios/"
+      ],
+      "featured_image": "/assets/mejores-vestidos-sostenibles.jpg",
+      "review": {
+        "editorial": "Second-pass review completed after SERP research: no fabricated reviews, prices, experts or personal experience; article frames options by use case, fabric, care, repeat wear, second hand and anti-greenwashing checks.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, table of contents, comparison table, four external links, internal links, YouTube embed, blog index and sitemap updated. No duplicate slug or direct cannibalization against existing sustainable fashion brand/store articles."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-26T17:23:27+02:00",
+        "attempts": 2,
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image correct",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article with 2026-07-26 lastmod",
+          "local desktop and mobile-equivalent render screenshots inspected",
+          "live desktop and mobile-equivalent render screenshots inspected"
         ]
       }
     }
