@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-26T17:23:27+02:00",
+  "updated_at": "2026-07-27T16:52:06+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -17,8 +17,18 @@
         "language": "Español",
         "summary": "La SERP exacta no devuelve un listicle local robusto; predominan resultados informativos sobre moda sostenible, moda circular, prensa sectorial y páginas generales. Gap editorial: guía local BOFU con criterios de elección, señales anti-greenwashing y opciones verificables sin inventar rankings ni reseñas.",
         "intent": "Comercial local con necesidad de comparación y criterios de compra.",
-        "page_types": ["definiciones informativas", "prensa sectorial", "guías de sostenibilidad", "resultados locales dispersos"],
-        "coverage_gaps": ["poca cobertura específica de Gijón", "falta de criterios prácticos de tienda", "riesgo de rankings sin evidencia", "escasa explicación de greenwashing para compradores locales"]
+        "page_types": [
+          "definiciones informativas",
+          "prensa sectorial",
+          "guías de sostenibilidad",
+          "resultados locales dispersos"
+        ],
+        "coverage_gaps": [
+          "poca cobertura específica de Gijón",
+          "falta de criterios prácticos de tienda",
+          "riesgo de rankings sin evidencia",
+          "escasa explicación de greenwashing para compradores locales"
+        ]
       },
       "sources": [
         "https://www.eea.europa.eu/en/topics/in-depth/textiles",
@@ -543,6 +553,82 @@
           "featured image returned image/jpeg and rendered",
           "blog index contains article",
           "sitemap contains article with 2026-07-26 lastmod",
+          "local desktop and mobile-equivalent render screenshots inspected",
+          "live desktop and mobile-equivalent render screenshots inspected"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores jerséis de calidad para mujer",
+      "priority": "Alta",
+      "status": "published",
+      "slug": "mejores-jerseis-calidad-mujer",
+      "title": "Mejores jerséis de calidad para mujer: 10 opciones que duran",
+      "url": "https://pacaytola.com/blog/mejores-jerseis-calidad-mujer/",
+      "selected_at": "2026-07-27",
+      "prepared_at": "2026-07-27",
+      "published_at": "2026-07-27",
+      "commit": "d471ffb",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual mezcla categorías ecommerce de jerséis de cashmere y merino, fichas de producto de marcas de moda, y listicles editoriales sobre punto de calidad. Predominan páginas comerciales con filtros, producto e imagen, más artículos de 900-2.000 palabras aproximadas con autoría visible y selección de prendas. Gap editorial: guía BOFU que ayuda a elegir tipo de jersey por fibra, densidad, pilling, cuidados, clima y coste por uso antes de comparar marcas o precios concretos.",
+        "intent": "Comercial / transaccional con necesidad de comparar jerséis de calidad antes de comprar.",
+        "page_types": [
+          "categorías ecommerce de jerséis de cashmere, merino y punto",
+          "fichas de producto de marcas de moda con composición y cuidados",
+          "listicles editoriales de jerséis de calidad o básicos de punto",
+          "guías de cuidado de lana y materiales",
+          "fuentes sectoriales sobre transparencia y textiles"
+        ],
+        "top_relevant_results": [
+          "Vogue España: listicles editoriales de jerséis y básicos de punto con autoría y selección de producto",
+          "Glamour España: contenidos editoriales de shopping sobre jerséis y prendas de punto",
+          "Zara, Gap, H&M, Selected y Sézane: categorías o fichas comerciales de punto, merino y cashmere",
+          "Woolmark: guía práctica de lavado y cuidado de jerséis de lana",
+          "Textile Exchange, EEA y Fashion Revolution: criterios de materiales, impacto textil y transparencia"
+        ],
+        "coverage_gaps": [
+          "muchos resultados venden producto sin explicar cómo identificar calidad antes de elegir marca",
+          "poca separación entre merino, cashmere, algodón, alpaca, canalé, punto grueso y cárdigan por uso real",
+          "riesgo de claims de lujo o sostenibilidad basados solo en fibra o precio",
+          "escasa orientación sobre pilling, recuperación, secado en plano y vida útil",
+          "poca adaptación al clima húmedo del norte y a armarios de uso repetido"
+        ]
+      },
+      "sources": [
+        "https://www.vogue.es/moda/articulos/jerseis-basicos-mujer-invierno-tendencias",
+        "https://www.glamour.es/moda/tendencias/articulos/jerseis-mujer-basicos-invierno/53883",
+        "https://www.woolmark.com/care/how-to-wash-wool-sweater/",
+        "https://textileexchange.org/responsible-wool-standard/",
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://www.fashionrevolution.org/transparency/",
+        "https://www2.hm.com/es_es/sustainability-at-hm/our-work/close-the-loop/take-care.html"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-prendas-atemporales-mujer/",
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/categoria/accesorios/",
+        "https://pacaytola.com/guia-de-tallas/"
+      ],
+      "featured_image": "/assets/mejores-jerseis-calidad-mujer.jpg",
+      "review": {
+        "editorial": "Second-pass review completed after SERP research: no fabricated reviews, prices, experts or personal experience; article frames options by fiber, garment type, care, pilling, climate and cost per wear with a discreet company mention.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, table of contents, comparison table, external sources, internal links, YouTube embed, blog index and sitemap updated. No duplicate slug or direct cannibalization against existing articles."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-27T16:52:06+02:00",
+        "attempts": 2,
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image correct",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article with 2026-07-27 lastmod",
           "local desktop and mobile-equivalent render screenshots inspected",
           "live desktop and mobile-equivalent render screenshots inspected"
         ]
