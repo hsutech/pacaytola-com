@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-27T16:52:06+02:00",
+  "updated_at": "2026-07-29T16:43:45+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -631,6 +631,81 @@
           "sitemap contains article with 2026-07-27 lastmod",
           "local desktop and mobile-equivalent render screenshots inspected",
           "live desktop and mobile-equivalent render screenshots inspected"
+        ]
+      }
+    },
+    {
+      "keyword": "boutiques de Gijón opiniones",
+      "priority": "Alta",
+      "status": "published",
+      "slug": "boutiques-de-gijon-opiniones",
+      "title": "Boutiques de Gijón opiniones: cómo elegir con criterio",
+      "url": "https://pacaytola.com/blog/boutiques-de-gijon-opiniones/",
+      "selected_at": "2026-07-29",
+      "published_at": "2026-07-29",
+      "commit": "1f87968",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual es BOFU/local y está dominada por directorios, agregadores de opiniones, fichas de tiendas concretas y plataformas de valoración. No domina una guía editorial larga centrada en cómo interpretar opiniones de boutiques; el artículo cubre ese gap sin fabricar rankings, reseñas ni reputación local.",
+        "intent": "Comercial local con necesidad de evaluar reseñas antes de elegir tienda o comprar online.",
+        "page_types": [
+          "directorios locales de tiendas de ropa",
+          "directorios generalistas de boutiques",
+          "fichas individuales de boutiques",
+          "plataformas de reseñas verificadas",
+          "agregadores de viaje/compras"
+        ],
+        "top_relevant_results": [
+          "LocalityBiz tiendas de ropa en Gijón",
+          "Páginas Amarillas boutiques en Gijón",
+          "Nicanora ficha de PLEASE",
+          "Wanderlog ficha de Boutique Carmen Ablanedo",
+          "Trusted Shops evaluación de Fly Gijón"
+        ],
+        "coverage_gaps": [
+          "muchas páginas agregan opiniones pero no enseñan a interpretarlas",
+          "mezcla de boutiques, tiendas de ropa, calzado, infantil y grandes superficies",
+          "poca separación entre nota media, reseña concreta y decisión de compra",
+          "riesgo de convertir opiniones aisladas en rankings absolutos",
+          "escasa cobertura de tallaje, cambios, atención y ecommerce como criterios de lectura"
+        ]
+      },
+      "sources": [
+        "https://localitybiz.es/asturias/una-tienda-de-ropa-en-gij%C3%B3n",
+        "https://www.paginasamarillas.es/a/boutiques/asturias/gijon/",
+        "https://nicanora.es/tienda-ropa/please/",
+        "https://wanderlog.com/es/place/details/12322548/boutique-carmen-ablanedo",
+        "https://www.trustedshops.es/evaluacion/flygijon-es"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-boutiques-gijon/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/cambios-y-devoluciones/",
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/categoria/accesorios/",
+        "https://pacaytola.com/tienda-online/"
+      ],
+      "featured_image": "/assets/boutiques-de-gijon-opiniones.jpg",
+      "review": {
+        "editorial": "Second-pass review completed after SERP refresh: no fabricated reviews, rankings, prices, experts or personal experience; article separates opinion-reading intent from the prior best-boutiques guide to avoid canibalization.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, table of contents, comparison table, internal/external links, image alt, blog index and sitemap verified. YouTube omitted because no video materially improved the local review-reading intent."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-29T16:43:45+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "publication date 2026-07-29 present in HTML and schema",
+          "Open Graph image correct",
+          "featured image returned image/jpeg",
+          "blog index contains article",
+          "sitemap contains article",
+          "GitHub Actions deploy completed successfully",
+          "desktop and mobile production screenshots inspected"
         ]
       }
     }
