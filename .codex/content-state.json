@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-29T16:43:45+02:00",
+  "updated_at": "2026-07-30T16:58:35+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -707,6 +707,84 @@
           "GitHub Actions deploy completed successfully",
           "desktop and mobile production screenshots inspected"
         ]
+      }
+    },
+    {
+      "keyword": "dónde comprar moda sostenible en Asturias",
+      "priority": "Media",
+      "status": "published",
+      "slug": "donde-comprar-moda-sostenible-asturias",
+      "title": "Dónde comprar moda sostenible en Asturias: guía local para elegir mejor",
+      "url": "https://pacaytola.com/blog/donde-comprar-moda-sostenible-asturias/",
+      "selected_at": "2026-07-30",
+      "published_at": "2026-07-30",
+      "commit": "405557d",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual es comercial local y fragmentada: mapas/directorios de tiendas asturianas, asociaciones de moda regional, directorios de marcas sostenibles y proyectos concretos. No domina una guía editorial que ordene dónde comprar por canal y criterios de sostenibilidad; el artículo cubre ese gap con una guía BOFU local sin rankings inventados ni reseñas fabricadas.",
+        "intent": "Comercial / transaccional local con necesidad de saber dónde mirar y cómo validar una compra sostenible en Asturias.",
+        "page_types": [
+          "mapas y directorios de tiendas de moda en Asturias",
+          "directorios de marcas y tiendas sostenibles",
+          "páginas de asociaciones sectoriales locales",
+          "tiendas y marcas asturianas concretas",
+          "fuentes institucionales sobre textiles sostenibles y circularidad"
+        ],
+        "top_relevant_results": [
+          "ADYMO: mapa de tiendas de moda en Asturias con foco local y comercial",
+          "Unión de Consumidores de Asturias / Carro de Combate: directorio de tiendas y marcas de ropa sostenible",
+          "resultados de marcas/proyectos asturianos de moda sostenible y diseño local",
+          "Comisión Europea: estrategia para textiles sostenibles y circulares",
+          "Agencia Europea de Medio Ambiente: contexto sobre impacto textil, reutilización y circularidad"
+        ],
+        "coverage_gaps": [
+          "falta una guía local que separe boutique, marca asturiana, segunda mano, feria, comercio justo y online",
+          "muchos resultados descubren tiendas pero no explican cómo evaluar claims de sostenibilidad",
+          "riesgo de confundir compra local con sostenibilidad automática",
+          "poca orientación sobre uso real, reparabilidad, cambios y reducción de devoluciones",
+          "escasa diferenciación frente a búsquedas más estrechas centradas solo en Gijón"
+        ]
+      },
+      "sources": [
+        "https://www.modaasturias.com/es/mapa-de-tiendas.php",
+        "https://www.consumidor.es/ropa-calzado-y-complementos/2020/09/directorio-de-tiendas-y-marcas-de-ropa-sostenible/",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://www.youtube.com/watch?v=BiSYoeqb_VY"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-tiendas-moda-sostenible-gijon/",
+        "https://pacaytola.com/blog/mejores-prendas-atemporales-mujer/",
+        "https://pacaytola.com/blog/mejores-tiendas-moda-lenta-espana/",
+        "https://pacaytola.com/tienda-online/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/cambios-y-devoluciones/"
+      ],
+      "featured_image": "/assets/donde-comprar-moda-sostenible-asturias.jpg",
+      "review": {
+        "editorial": "Second-pass editorial review completed: article matches local BOFU 'dónde comprar' intent, avoids fabricated rankings/reviews/prices/experience, separates Asturias-wide intent from the existing Gijón guide, and includes a discreet factual Paca y Tola mention.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article and FAQ schema, TOC, comparison table, 4 external sources, real internal links, YouTube embed, featured image alt, blog index and sitemap updated. No template markers found."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-30T16:58:35+02:00",
+        "attempts": 2,
+        "checks": [
+          "article commit pushed to main",
+          "GitHub Actions Cloudflare Pages workflow succeeded",
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image correct",
+          "featured image returned image/jpeg",
+          "blog index contains article",
+          "sitemap contains article with 2026-07-30 lastmod",
+          "local desktop and mobile-equivalent render screenshots inspected",
+          "live desktop and mobile-equivalent render screenshots inspected"
+        ],
+        "article_commit": "405557de8dc291b8076eb5c22450dd6d42a126c9",
+        "workflow_run": "https://github.com/hsutech/pacaytola-com/actions/runs/30554134754"
       }
     }
   ]
