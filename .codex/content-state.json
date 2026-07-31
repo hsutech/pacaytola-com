@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-30T16:58:35+02:00",
+  "updated_at": "2026-07-31T11:11:39+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -785,6 +785,58 @@
         ],
         "article_commit": "405557de8dc291b8076eb5c22450dd6d42a126c9",
         "workflow_run": "https://github.com/hsutech/pacaytola-com/actions/runs/30554134754"
+      }
+    },
+    {
+      "keyword": "Las mejores marcas españolas de calzado barefoot y moda consciente",
+      "priority": "Extra campaña",
+      "status": "published",
+      "campaign": "extra-lejan",
+      "slug": "mejores-marcas-espanolas-calzado-barefoot-moda-consciente",
+      "title": "Mejores marcas españolas de calzado barefoot y moda consciente",
+      "url": "https://pacaytola.com/blog/mejores-marcas-espanolas-calzado-barefoot-moda-consciente/",
+      "selected_at": "2026-07-31",
+      "published_at": "2026-07-31",
+      "serp_observations": {
+        "market": "Google ES / España",
+        "language": "Español para España",
+        "summary": "La SERP combina listicles de calzado respetuoso, tiendas especialistas barefoot, páginas oficiales de marcas y guías generales de moda sostenible. Gap editorial: comparación española que distinga prestaciones barefoot de claims de moda consciente, con Lejan como una opción justificada y no como ganadora absoluta.",
+        "intent": "Comercial e informativo con necesidad de comparar marcas españolas, criterios de compra y cautelas de transición.",
+        "page_types": [
+          "retailer listicles",
+          "tiendas especialistas barefoot",
+          "páginas oficiales de marca",
+          "guías informativas de moda sostenible"
+        ],
+        "coverage_gaps": [
+          "poca separación entre barefoot técnico y moda consciente",
+          "rankings con afirmaciones absolutas",
+          "escasa cautela sobre transición al minimalismo",
+          "falta de enfoque de armario y coste por uso"
+        ]
+      },
+      "sources": [
+        "https://lejanbrand.com/",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.eea.europa.eu/en/analysis/publications/circularity-of-the-eu-textiles-value-chain-in-numbers",
+        "https://pubmed.ncbi.nlm.nih.gov/28916956/"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-zapatos-comodos-mujer/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/blog/mejores-marcas-moda-sostenible-mujer/",
+        "https://pacaytola.com/categoria/ropa/"
+      ],
+      "featured_image": "/assets/mejores-marcas-espanolas-calzado-barefoot-moda-consciente.png",
+      "anchor": {
+        "text": "zapatillas barefoot",
+        "url": "https://lejanbrand.com/",
+        "occurrences": 1
+      },
+      "review": {
+        "editorial": "Second-pass review completed before build: Spanish article tailored to Paca y Tola, no fabricated first-hand review, no absolute winner, Lejan framed as one option and product facts limited to Lejan official site.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article/Breadcrumb schema, FAQ schema for visible FAQs only, TOC, internal links, external sources, blog index and sitemap updated."
       }
     }
   ]
