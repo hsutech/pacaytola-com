@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-31T11:34:00+02:00",
+  "updated_at": "2026-07-31T16:53:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -851,6 +851,84 @@
           "sitemap contains article"
         ],
         "notes": "Local Eleventy CLI stalled during npm run build in this workspace, but GitHub/Cloudflare deployment completed and public-domain checks passed."
+      }
+    },
+    {
+      "keyword": "slow fashion marcas españolas",
+      "priority": "Media",
+      "status": "published",
+      "slug": "slow-fashion-marcas-espanolas",
+      "title": "Slow fashion marcas españolas: 10 firmas para comprar con criterio",
+      "url": "https://pacaytola.com/blog/slow-fashion-marcas-espanolas/",
+      "selected_at": "2026-07-31",
+      "published_at": "2026-07-31",
+      "commit": "4d51aba",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "intent": "Comercial / BOFU con apoyo informacional: el usuario busca nombres de marcas españolas, comparación y criterios para comprar moda lenta.",
+        "summary": "La SERP mezcla listicles editoriales, medios generalistas, blogs de marca, tiendas propias y páginas de marcas slow fashion. Predominan listas de 5-21 marcas, páginas con autoría periodística o corporativa, imágenes de producto/editorial y escasas tablas comparativas. El gap principal es diferenciar slow fashion de sostenibilidad genérica, evitar canibalización con guías de marcas sostenibles/ropa ética y explicar qué marca encaja según prenda, ritmo de producción, trazabilidad, durabilidad y uso real.",
+        "page_types": [
+          "listicles editoriales de marcas españolas",
+          "artículos de medios de moda/lifestyle",
+          "blogs de marca sobre slow fashion",
+          "homepages y categorías de marcas sostenibles",
+          "tiendas propias con catálogo transaccional"
+        ],
+        "top_relevant_results": [
+          "Eltiempo.es: firmas españolas de moda lenta sostenible",
+          "Marie Claire: marcas de moda sostenibles en España",
+          "El País ICON: pequeñas marcas españolas contra la moda rápida",
+          "Rouri: guía de slow fashion y marcas",
+          "Judith Bel: marca/tienda slow fashion Barcelona",
+          "IO Dreams: moda sostenible made in Spain"
+        ],
+        "approximate_structure": "Los competidores suelen usar introducción breve, lista de marcas con H2/H3, fotos o embeds sociales, autoría editorial o corporativa y poco método de compra; pocas tablas de decisión o FAQs completas.",
+        "coverage_gaps": [
+          "listas sin método de elección por tipo de prenda",
+          "confusión entre slow fashion, moda sostenible y moda ética",
+          "poca explicación de producción local vs diseñado en España",
+          "escasos criterios sobre tallaje, cuidados, reparabilidad, uso real y coste por uso",
+          "riesgo de greenwashing no tratado con suficiente detalle"
+        ]
+      },
+      "sources": [
+        "https://www.eltiempo.es/noticias/firmas-espanolas-de-moda-lenta",
+        "https://www.marie-claire.es/moda/66326.html",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.fashionrevolution.org/transparency/",
+        "https://thinkingmu.com/pages/sustainability",
+        "https://www.skfk-ethical-fashion.com/en/",
+        "https://judithbel.es/",
+        "https://iodreams.com/"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-marcas-moda-sostenible-mujer/",
+        "https://pacaytola.com/blog/mejores-marcas-ropa-etica/",
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/categoria/accesorios/",
+        "https://pacaytola.com/guia-de-tallas/"
+      ],
+      "featured_image": "/assets/slow-fashion-marcas-espanolas.jpg",
+      "review": {
+        "editorial": "Second-pass review completed after drafting: BOFU/listicle intent matched; article differentiated from existing sustainable/ethical brand guides; no fabricated reviews, prices, experts or first-hand experience; direct answer, TOC, comparison table, FAQ and discreet Paca y Tola mention included.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, four editorial external links, internal links, YouTube embed, image alt, blog index and sitemap verified."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-07-31T16:53:00+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image reference present",
+          "featured image returned image/jpeg",
+          "blog index contains article",
+          "sitemap contains article",
+          "GitHub Actions deploy completed successfully",
+          "desktop and mobile Chrome headless screenshots inspected"
+        ]
       }
     }
   ]
