@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-07-31T16:53:00+02:00",
+  "updated_at": "2026-08-02T16:43:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -928,6 +928,81 @@
           "sitemap contains article",
           "GitHub Actions deploy completed successfully",
           "desktop and mobile Chrome headless screenshots inspected"
+        ]
+      }
+    },
+    {
+      "keyword": "moda lenta vs fast fashion",
+      "priority": "Media",
+      "status": "published",
+      "slug": "moda-lenta-vs-fast-fashion",
+      "title": "Moda lenta vs fast fashion: diferencias y cómo elegir mejor",
+      "url": "https://pacaytola.com/blog/moda-lenta-vs-fast-fashion/",
+      "selected_at": "2026-08-02",
+      "published_at": "2026-08-02",
+      "commit": "d6d41b4",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual mezcla comparativas editoriales, medios internacionales, escuelas de moda, páginas educativas, entradas de marca y recomendaciones lingüísticas. Predominan definiciones de fast fashion/moda rápida y slow fashion/moda lenta, beneficios, impacto ambiental y tablas básicas. Gap editorial: una comparativa BOFU orientada a decisión de compra, coste por uso, etiqueta, talla, cuidado, transparencia y errores al pasar de compra rápida a compra supuestamente consciente.",
+        "intent": "Comercial / BOFU con apoyo informacional: el usuario quiere entender diferencias y decidir cómo comprar mejor, no solo una definición.",
+        "page_types": [
+          "comparativas editoriales de moda",
+          "artículos educativos de escuelas de moda",
+          "medios ambientales y lifestyle",
+          "páginas de marca con enfoque sostenible",
+          "recomendaciones lingüísticas sobre fast fashion/moda rápida"
+        ],
+        "top_relevant_results": [
+          "Vogue México: Fast Fashion vs Slow Fashion",
+          "National Geographic LA: qué es la moda lenta y diferencias con moda rápida",
+          "Esneca: slow fashion, ventajas y tabla comparativa",
+          "FundéuRAE: moda rápida como alternativa a fast fashion",
+          "IED España: moda lenta y moda sostenible",
+          "La Nota Latina: slow fashion vs fast fashion y nueva generación"
+        ],
+        "coverage_gaps": [
+          "pocas páginas aterrizan la comparación en criterios de compra concretos",
+          "tablas comparativas a menudo genéricas y sin coste por uso",
+          "escasa explicación de errores al comprar slow por impulso",
+          "poca conexión con tallaje, devoluciones, cuidado y reparación",
+          "riesgo de claims absolutos sobre sostenibilidad sin límites"
+        ]
+      },
+      "sources": [
+        "https://www.vogue.mx/moda/articulo/fast-fashion-y-slow-fashion-principales-diferencias",
+        "https://www.nationalgeographicla.com/medio-ambiente/2024/06/que-es-la-moda-lenta-como-comprar-despacio-de-manera-sostenible-y-etica",
+        "https://www.esneca.com/blog/slow-fashion-moda-lenta/",
+        "https://www.fundeu.es/recomendacion/moda-pronta-mejor-que-fast-fashion/",
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.unep.org/news-and-stories/story/putting-brakes-fast-fashion",
+        "https://ed.ted.com/lessons/the-life-cycle-of-a-t-shirt-angel-chang"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-prendas-atemporales-mujer/",
+        "https://pacaytola.com/blog/mejores-tiendas-moda-lenta-espana/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/tienda-online/",
+        "https://pacaytola.com/blog/mejores-jerseis-calidad-mujer/",
+        "https://pacaytola.com/blog/mejores-zapatos-comodos-mujer/"
+      ],
+      "featured_image": "/assets/moda-lenta-vs-fast-fashion.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before state update: intent matched to comparison/decision SERP, 1,634 words, no fabricated reviews, prices, experts, tests or personal experience; company mention is discreet and factual.",
+        "seo": "Unique H1, title/meta description, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, TOC, comparison table, 4 external editorial links, real internal links, YouTube embed, featured image alt and no relevant template markers."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-08-02T16:43:00+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article",
+          "desktop and mobile Chrome headless render checks passed"
         ]
       }
     }
