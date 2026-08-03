@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-08-02T16:43:00+02:00",
+  "updated_at": "2026-08-03T16:47:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -1003,6 +1003,79 @@
           "blog index contains article",
           "sitemap contains article",
           "desktop and mobile Chrome headless render checks passed"
+        ]
+      }
+    },
+    {
+      "keyword": "ropa sostenible opiniones",
+      "priority": "Media",
+      "status": "published",
+      "slug": "ropa-sostenible-opiniones",
+      "title": "Ropa sostenible opiniones: cómo leer reseñas antes de comprar",
+      "url": "https://pacaytola.com/blog/ropa-sostenible-opiniones/",
+      "selected_at": "2026-08-03",
+      "published_at": "2026-08-03",
+      "commit": "e09ea82",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual mezcla artículos de medios sobre trazabilidad y moda sostenible, guías de consumo responsable, páginas de tiendas con reseñas de clientes, listicles de marcas sostenibles y contenidos sobre greenwashing. Predomina una intención BOFU de validación previa a compra, pero hay poca guía editorial que enseñe a interpretar opiniones sin convertir reseñas aisladas en prueba de sostenibilidad.",
+        "intent": "Comercial / transaccional con necesidad de validar marcas, prendas y claims antes de comprar.",
+        "page_types": [
+          "artículos informativos de sostenibilidad textil y trazabilidad",
+          "guías de consumo responsable",
+          "páginas de ecommerce o marca con opiniones de clientes",
+          "listicles de marcas sostenibles",
+          "fuentes institucionales sobre impacto textil y transparencia"
+        ],
+        "top_relevant_results": [
+          "OCU: guía de moda sostenible y consumo responsable",
+          "Agencia Europea de Medio Ambiente: impacto del textil y moda rápida",
+          "Comisión Europea: estrategia para textiles sostenibles y circulares",
+          "Fashion Revolution: transparencia como información pública, no certificación",
+          "Resultados comerciales con opiniones de tiendas o marcas de ropa sostenible",
+          "Medios con enfoque de trazabilidad y claims ambientales"
+        ],
+        "coverage_gaps": [
+          "muchas reseñas validan servicio o estética, pero no sostenibilidad",
+          "pocas páginas separan experiencia de compra, calidad de prenda y claims ambientales",
+          "riesgo de canibalización con guías de marcas sostenibles si se convierte en listicle",
+          "falta de método para leer patrones de talla, lavado, pilling, devoluciones y transparencia"
+        ]
+      },
+      "sources": [
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://www.ocu.org/consumo-familia/consumo-colaborativo/informe/moda-sostenible",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.fashionrevolution.org/transparency/",
+        "https://www.youtube.com/watch?v=7Y18UAF8M68"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/blog/mejores-jerseis-calidad-mujer/",
+        "https://pacaytola.com/blog/mejores-marcas-ropa-etica/",
+        "https://pacaytola.com/blog/slow-fashion-marcas-espanolas/",
+        "https://pacaytola.com/blog/donde-comprar-moda-sostenible-asturias/",
+        "https://pacaytola.com/blog/moda-lenta-vs-fast-fashion/"
+      ],
+      "featured_image": "/assets/ropa-sostenible-opiniones.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before state update: article stays on review/opinion interpretation intent, avoids invented reviews, rankings, prices, experts or personal testing, and differentiates experience signals from sustainability claims.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, table of contents, comparison table, 4 external links, real internal links, YouTube embed, blog index and sitemap updated."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-08-03T16:46:08+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image reference present",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article",
+          "GitHub Actions build and Cloudflare deployment completed successfully",
+          "desktop and mobile-equivalent Chrome headless render checks passed"
         ]
       }
     }
