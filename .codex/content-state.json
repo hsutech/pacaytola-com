@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-08-06T16:45:00+02:00",
+  "updated_at": "2026-08-06T16:45:05+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -1226,6 +1226,21 @@
       "review": {
         "editorial": "Second-pass review completed before deploy: neutral Magnific mention, no universal superiority, no pricing/features beyond same-day accessible context, no invented testing, no synthetic visual used as evidence of a real product or result.",
         "seo": "Unique H1/title/meta, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, TOC, comparison table, internal/external links, exact followed backlink, blog index and sitemap updated."
+      },
+      "commit": "5f561bb",
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-08-06T16:45:05+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article",
+          "exactly one followed editorial backlink with anchor Magnific AI to https://www.magnific.com/ai/image-generator",
+          "desktop and mobile Chrome headless render without horizontal overflow"
+        ]
       }
     }
   ]
