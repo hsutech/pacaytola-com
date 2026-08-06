@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-08-04T16:47:30+02:00",
+  "updated_at": "2026-08-06T16:45:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -1154,6 +1154,78 @@
         ],
         "article_commit": "ef8bf9ed96df02032ebe5627dc3b7a84790ff324",
         "workflow_run": "https://github.com/hsutech/pacaytola-com/actions/runs/30920484351"
+      }
+    },
+    {
+      "keyword": "campaña Magnific AI fondos y escenas para productos de moda",
+      "priority": "Extra campaña",
+      "status": "published",
+      "slug": "como-crear-fondos-escenas-presentar-productos-moda-ia",
+      "title": "Cómo crear fondos y escenas para presentar productos de moda con IA",
+      "url": "https://pacaytola.com/blog/como-crear-fondos-escenas-presentar-productos-moda-ia/",
+      "selected_at": "2026-08-06",
+      "published_at": "2026-08-06",
+      "campaign": {
+        "host": "pacaytola.com",
+        "required_anchor": "Magnific AI",
+        "destination": "https://www.magnific.com/ai/image-generator",
+        "rule": "exactly one followed editorial link"
+      },
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual está dominada por herramientas de generación o cambio de fondos para fotos de producto y por guías de ecommerce/fotografía. Los resultados comparables prometen escenas de estudio, lifestyle, eliminación de fondo, sombras y escalado para catálogos. Gap editorial: método prudente para moda que separa ideación visual de prueba real de producto, preserva recortes, colores y proporciones y añade revisión comercial antes de publicar.",
+        "intent": "Comercial / BOFU con apoyo informacional para equipos de ecommerce, boutiques y marketing de moda.",
+        "page_types": [
+          "landings de herramientas IA",
+          "guías de fotografía ecommerce",
+          "documentación de requisitos de imagen",
+          "páginas de producto de editores visuales"
+        ],
+        "top_relevant_results": [
+          "Photoroom Instant Backgrounds",
+          "CamClo3D Background Changer",
+          "Unsnaping AI Product Photos",
+          "Designkit Product Photography Generator",
+          "BackdropBoost",
+          "LightX AI Background Generator",
+          "Google Merchant Center image guidelines",
+          "Shopify product photography guide"
+        ],
+        "coverage_gaps": [
+          "poca atención a fidelidad del producto en moda",
+          "escasa separación entre ficha de producto y moodboard editorial",
+          "pocas checklists de QA para color, escala, textura y accesorios",
+          "riesgo de claims de conversión o resultados no verificables",
+          "pocos límites sobre no usar escenas sintéticas como evidencia real"
+        ]
+      },
+      "sources": [
+        "https://www.photoroom.com/tools/instant-backgrounds",
+        "https://camclo3d.com/products/change-background",
+        "https://www.designkit.com/product-photography-generator",
+        "https://support.google.com/merchants/answer/6324350?hl=es",
+        "https://help.shopify.com/es/manual/products/product-media/product-photography",
+        "https://eur-lex.europa.eu/ES/legal-content/summary/unfair-commercial-practices.html",
+        "https://www.magnific.com/ai/image-generator"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/categoria/ropa/",
+        "https://pacaytola.com/blog/mejores-prendas-atemporales-mujer/",
+        "https://pacaytola.com/blog/mejores-tejidos-naturales-ropa/",
+        "https://pacaytola.com/blog/mejores-jerseis-calidad-mujer/"
+      ],
+      "external_links": [
+        "https://support.google.com/merchants/answer/6324350?hl=es",
+        "https://help.shopify.com/es/manual/products/product-media/product-photography",
+        "https://eur-lex.europa.eu/ES/legal-content/summary/unfair-commercial-practices.html",
+        "https://support.google.com/merchants/answer/12724659?hl=es",
+        "https://www.magnific.com/ai/image-generator"
+      ],
+      "featured_image": "/assets/como-crear-fondos-escenas-presentar-productos-moda-ia.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before deploy: neutral Magnific mention, no universal superiority, no pricing/features beyond same-day accessible context, no invented testing, no synthetic visual used as evidence of a real product or result.",
+        "seo": "Unique H1/title/meta, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, TOC, comparison table, internal/external links, exact followed backlink, blog index and sitemap updated."
       }
     }
   ]
