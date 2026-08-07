@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-08-06T16:45:05+02:00",
+  "updated_at": "2026-08-07T16:44:45+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -1241,6 +1241,88 @@
           "exactly one followed editorial backlink with anchor Magnific AI to https://www.magnific.com/ai/image-generator",
           "desktop and mobile Chrome headless render without horizontal overflow"
         ]
+      }
+    },
+    {
+      "keyword": "mejores prendas para un armario cápsula",
+      "priority": "Media",
+      "status": "published",
+      "slug": "mejores-prendas-armario-capsula",
+      "title": "Mejores prendas para un armario cápsula: 10 básicos para vestir con menos ruido",
+      "url": "https://pacaytola.com/blog/mejores-prendas-armario-capsula/",
+      "selected_at": "2026-08-07",
+      "published_at": "2026-08-07",
+      "commit": "b865a81",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "intent": "BOFU/comercial con apoyo informacional: el usuario quiere decidir qué prendas comprar o conservar para montar un armario cápsula funcional.",
+        "summary": "La SERP actual mezcla guías editoriales, escaparates con afiliación, páginas de marcas y artículos de estilo minimalista. Predominan listicles de 10 a 22 prendas, tablas de contenidos en guías largas, imágenes editoriales o de producto, autoría editorial/corporativa y FAQs sobre cantidad, definición y combinaciones.",
+        "page_types": [
+          "listicles editoriales con afiliación",
+          "guías paso a paso de armario cápsula",
+          "páginas comerciales de marcas",
+          "artículos de moda minimalista y básicos",
+          "guías internacionales de capsule wardrobe"
+        ],
+        "top_relevant_results": [
+          "El País Escaparate: 10 prendas y 15 looks de junio",
+          "C&A: guía paso a paso para crear armario cápsula",
+          "Hogarmania: qué es y cómo crear un armario cápsula",
+          "Vogue España: prendas y accesorios siempre tendencia",
+          "El País Escaparate: 14 prendas para empezar",
+          "Glamour: 15 capsule wardrobe essentials for every woman in 2026",
+          "Ralph Lauren: armario cápsula atemporal para mujer"
+        ],
+        "coverage_gaps": [
+          "poca adaptación a clima húmedo y vida real en el norte de España",
+          "riesgo de repetir listados genéricos de prendas atemporales",
+          "mucho enfoque afiliado/producto y menos método de compra",
+          "escasa separación entre fondo de armario y cápsula combinable",
+          "pocos avisos sobre talla, movimiento, cuidados, devoluciones y coste por uso"
+        ]
+      },
+      "sources": [
+        "https://elpais.com/escaparate/estilo-de-vida/armario-capsula-verano.html",
+        "https://www.c-and-a.com/es/es/shop/armario-capsula",
+        "https://www.hogarmania.com/belleza/moda/ropa/armario-capsula.html",
+        "https://www.vogue.es/compras/galerias/prendas-accesorios-siempre-tendencia-basicos-armario-capsula",
+        "https://www.glamour.com/story/capsule-wardrobe",
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.wrap.ngo/resources/report/measuring-active-life-clothing",
+        "https://www.fashionrevolution.org/transparency/"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-prendas-atemporales-mujer/",
+        "https://pacaytola.com/blog/mejores-tejidos-naturales-ropa/",
+        "https://pacaytola.com/categoria/calzado/",
+        "https://pacaytola.com/cambios-y-devoluciones/"
+      ],
+      "featured_image": "/assets/mejores-prendas-armario-capsula.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before deploy: BOFU/listicle intent matched, article avoids fabricated prices, reviews, experts, testing or personal experience, and differentiates armario cápsula from the existing prendas atemporales guide to reduce canibalización.",
+        "seo": "Unique title/H1/meta description, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, TOC, comparison table, 4 editorial external links, 4 internal links, YouTube embed, image alt, blog index and sitemap verified."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-08-07T16:44:45+02:00",
+        "attempts": 2,
+        "checks": [
+          "article commit pushed to main",
+          "GitHub Actions Cloudflare Pages workflow succeeded",
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image reference present",
+          "featured image returned image/jpeg",
+          "blog index contains article",
+          "sitemap contains article after second propagation check",
+          "local desktop and mobile-equivalent render screenshots inspected",
+          "live desktop and mobile-equivalent render screenshots inspected"
+        ],
+        "article_commit": "b865a816583cd1c5ba650bc690b1113ba81437f9",
+        "workflow_run": "https://github.com/hsutech/pacaytola-com/actions/runs/31188855107"
       }
     }
   ]
