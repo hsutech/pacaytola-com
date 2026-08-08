@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-08-07T16:44:45+02:00",
+  "updated_at": "2026-08-08T16:58:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -1323,6 +1323,88 @@
         ],
         "article_commit": "b865a816583cd1c5ba650bc690b1113ba81437f9",
         "workflow_run": "https://github.com/hsutech/pacaytola-com/actions/runs/31188855107"
+      }
+    },
+    {
+      "keyword": "mejores marcas de ropa de lino para mujer",
+      "priority": "Media",
+      "status": "published",
+      "slug": "mejores-marcas-ropa-lino-mujer",
+      "title": "Mejores marcas de ropa de lino para mujer: 10 opciones para comprar con criterio",
+      "url": "https://pacaytola.com/blog/mejores-marcas-ropa-lino-mujer/",
+      "selected_at": "2026-08-08",
+      "published_at": "2026-08-08",
+      "commit": "bac0147",
+      "serp_observations": {
+        "market": "Google ES / España",
+        "language": "Español",
+        "intent": "BOFU/comercial con apoyo informacional: comparar marcas y decidir qué prendas de lino comprar sin asumir que toda prenda de lino es buena compra.",
+        "summary": "La SERP actual mezcla tiendas especializadas en lino, páginas de marca, listados de moda sostenible y medios generalistas. Predominan páginas de ecommerce/marca con producto e imagen, y guías de marcas sostenibles amplias que no siempre explican patrón, composición, transparencia, cuidados, política de cambios o coste por uso.",
+        "page_types": [
+          "marcas especializadas en lino",
+          "tiendas online de tejidos naturales",
+          "listicles de moda sostenible",
+          "medios generalistas de tendencias sostenibles",
+          "páginas oficiales de marca"
+        ],
+        "top_relevant_results": [
+          "Sonfre: ropa de lino sostenible para mujer",
+          "Loess Brand: ropa artesanal en lino hecha en España",
+          "Essencialis: guía de marcas españolas de ropa sostenible",
+          "La Razón: marcas españolas sostenibles",
+          "ROADE: moda gallega con prendas de lino",
+          "DeModa: marcas españolas de ropa sostenible",
+          "Esturirafi: marcas españolas de moda sostenible",
+          "LÃNHO: ropa minimalista de lino y lana"
+        ],
+        "coverage_gaps": [
+          "poca separación entre fibra de lino y calidad real de la prenda",
+          "muchas páginas de marca hablan de sí mismas sin tabla comparativa independiente",
+          "riesgo de claims sostenibles genéricos sin verificar producto por producto",
+          "falta de criterios prácticos de talla, transparencia, arruga, cuidado y política de cambios",
+          "canibalización potencial con guías de tejidos si no se enfoca en marcas y compra BOFU"
+        ]
+      },
+      "sources": [
+        "https://sonfre.com/es",
+        "https://loessbrand.com/",
+        "https://essencialis.es/guia-marcas-espanolas-ropa-sostenible/",
+        "https://www.larazon.es/tendencias-futuro/experiencias/si-te-gusta-la-moda-y-el-planeta-estas-5-marcas-espanolas-sostenibles-son-para-ti_20250528698b71ce9243cc133c402277.html",
+        "https://roade.es/",
+        "https://demoda.top/marcas-espanolas-de-ropa-sostenible/",
+        "https://www.esturirafi.com/2017/04/11-marcas-espanolas-de-moda-sostenible.html",
+        "https://lanhowear.com/",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.eea.europa.eu/en/circularity/sectoral-modules/textiles",
+        "https://www.europarl.europa.eu/doceo/document/A-9-2023-0176_EN.html"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-tejidos-naturales-ropa/",
+        "https://pacaytola.com/blog/mejores-prendas-armario-capsula/",
+        "https://pacaytola.com/blog/mejores-vestidos-sostenibles/",
+        "https://pacaytola.com/cambios-y-devoluciones/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/categoria/ropa/"
+      ],
+      "featured_image": "/assets/mejores-marcas-ropa-lino-mujer.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before state commit: BOFU/listicle intent matched, no fabricated prices, reviews, experts, testing or personal experience; brand claims limited to public positioning and product-selection criteria.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, TOC, comparison table, internal/external links, YouTube embed, featured image alt, blog index and sitemap updated."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-08-08T16:58:00+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image reference present",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article",
+          "GitHub Actions success",
+          "desktop and mobile Chrome headless render checks"
+        ]
       }
     }
   ]
