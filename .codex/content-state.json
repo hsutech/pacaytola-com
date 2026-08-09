@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-08-08T16:58:00+02:00",
+  "updated_at": "2026-08-09T16:50:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -1404,6 +1404,81 @@
           "sitemap contains article",
           "GitHub Actions success",
           "desktop and mobile Chrome headless render checks"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores pantalones cómodos para mujer",
+      "priority": "Media",
+      "status": "published",
+      "slug": "mejores-pantalones-comodos-mujer",
+      "title": "Mejores pantalones cómodos para mujer: 10 opciones para vestir sin apretar",
+      "url": "https://pacaytola.com/blog/mejores-pantalones-comodos-mujer/",
+      "selected_at": "2026-08-09",
+      "published_at": "2026-08-09",
+      "commit": "0846823",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP para la keyword es BOFU/comercial: aparecen listados de pantalones de vestir, páginas de tienda, recomendaciones de pantalones anchos y cómodos, vaqueros que estilizan y alternativas a leggings. Gap editorial: guía de decisión por tipo de pantalón, cintura, tiro, tejido, caída, zapato y uso real, sin inventar pruebas, precios ni reseñas.",
+        "intent": "Comercial / transaccional con apoyo informacional para comparar antes de comprar.",
+        "page_types": [
+          "listicles de pantalones de vestir",
+          "categorías ecommerce",
+          "guías de pantalones anchos o elásticos",
+          "artículos de alternativas a leggings",
+          "contenidos de vaqueros y siluetas favorecedoras"
+        ],
+        "top_relevant_results": [
+          "El País Escaparate: pantalones de vestir",
+          "Mango: pantalones cómodos de mujer",
+          "Trendencias: pantalones anchos y cómodos",
+          "Vozpópuli: vaqueros que estilizan",
+          "La Razón/CompraMejor: alternativas a leggings",
+          "Vogue España: pantalones cómodos para oficina"
+        ],
+        "coverage_gaps": [
+          "poca explicación de por qué una cintura resulta cómoda",
+          "escasa separación entre comodidad, tendencia y formalidad",
+          "pocas recomendaciones por clima y zapato",
+          "muchas listas de producto sin método transferible",
+          "riesgo de prometer comodidad sin probar ni medir"
+        ]
+      },
+      "sources": [
+        "https://elpais.com/escaparate/estilo-de-vida/2023-09-19/pantalones-de-vestir.html",
+        "https://shop.mango.com/es/es/c/mujer/pantalones/comodos_1a4ab1df",
+        "https://www.trendencias.com/propuestas-y-consejos/pantalones-anchos-comodos-que-pantalon-vaquero-que-mejor-sientan",
+        "https://www.eea.europa.eu/en/circularity/sectoral-modules/textiles",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://wrap.org.uk/taking-action/textiles"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-prendas-armario-capsula/",
+        "https://pacaytola.com/blog/mejores-tejidos-naturales-ropa/",
+        "https://pacaytola.com/blog/mejores-zapatos-comodos-mujer/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/cambios-y-devoluciones/",
+        "https://pacaytola.com/categoria/ropa/"
+      ],
+      "featured_image": "/assets/mejores-pantalones-comodos-mujer.jpg",
+      "review": {
+        "editorial": "Second-pass review completed before deploy: no fabricated reviews, prices, experts or personal testing; recommendations are by garment type and practical criteria rather than unverifiable rankings.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, TOC, comparison table, real internal/external links, YouTube embed, blog index and sitemap updated."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-08-09T16:50:00+02:00",
+        "checks": [
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Open Graph image correct",
+          "featured image returned image/jpeg and rendered",
+          "blog index contains article",
+          "sitemap contains article",
+          "GitHub Actions deployment success",
+          "desktop and mobile screenshots inspected with no horizontal overflow or console errors"
         ]
       }
     }
