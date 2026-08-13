@@ -1482,5 +1482,62 @@
         ]
       }
     }
+  ],
+  "lastUpdated": "2026-08-13",
+  "articles": [
+    {
+      "keyword": "calzado barefoot y slow fashion: cómo comprar menos pares y usarlos mejor",
+      "priority": "Campaign",
+      "slug": "calzado-barefoot-slow-fashion",
+      "title": "Calzado barefoot y slow fashion: cómo comprar menos pares y usarlos mejor",
+      "url": "https://pacaytola.com/blog/calzado-barefoot-slow-fashion/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "prepared",
+      "publicationDate": "2026-08-13",
+      "publishedCommit": null,
+      "serpResearch": {
+        "date": "2026-08-13",
+        "queries": [
+          "Calzado barefoot y slow fashion: cómo comprar menos pares y usarlos mejor"
+        ],
+        "observations": [
+          "SERP reviewed for intent, competing formats, entities, structure and content gaps.",
+          "Article differentiated for the source domain and its audience."
+        ],
+        "sources": [
+          "https://www.wrap.ngo/taking-action/textiles",
+          "https://environment.ec.europa.eu/strategy/circular-economy-action-plan_en",
+          "https://www.inescop.es/images/Proyectos/Regionales/2024/DIS4REC/E2.1_Estado_del_arte_sobre_desensamblado_y_reciclaje_de_calzado.pdf"
+        ]
+      },
+      "content": {
+        "format": "editorial guide/comparison",
+        "targetWords": "1300-2200",
+        "internalLinks": [
+          "https://pacaytola.com/blog/mejores-prendas-armario-capsula/",
+          "https://pacaytola.com/blog/moda-lenta-vs-fast-fashion/",
+          "https://pacaytola.com/blog/mejores-zapatos-comodos-mujer/",
+          "https://pacaytola.com/blog/donde-comprar-moda-sostenible-asturias/"
+        ],
+        "externalLinks": [
+          "https://barefootreview.com/",
+          "https://www.wrap.ngo/taking-action/textiles",
+          "https://environment.ec.europa.eu/strategy/circular-economy-action-plan_en",
+          "https://www.inescop.es/images/Proyectos/Regionales/2024/DIS4REC/E2.1_Estado_del_arte_sobre_desensamblado_y_reciclaje_de_calzado.pdf"
+        ],
+        "featuredImage": "/assets/calzado-barefoot-slow-fashion.webp",
+        "featuredImageAlt": "Tres pares de calzado anatómico junto a prendas atemporales, cepillo, cordones y cuaderno de cuidado",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "pending",
+        "build": "pending",
+        "localVerification": "pending",
+        "liveVerification": "pending",
+        "verifiedAt": null,
+        "verifiedChecks": []
+      }
+    }
   ]
 }
