@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-08-09T16:50:00+02:00",
+  "updated_at": "2026-08-14T16:50:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -1481,9 +1481,70 @@
           "desktop and mobile screenshots inspected with no horizontal overflow or console errors"
         ]
       }
+    },
+    {
+      "keyword": "mejores abrigos atemporales para mujer",
+      "priority": "Media",
+      "status": "pushed_unverified",
+      "slug": "mejores-abrigos-atemporales-mujer",
+      "title": "Mejores abrigos atemporales para mujer: 10 tipos para comprar con criterio",
+      "url": "https://pacaytola.com/blog/mejores-abrigos-atemporales-mujer/",
+      "selected_at": "2026-08-14",
+      "published_at": null,
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "intent": "Comercial / BOFU: comparar tipos de abrigo atemporal antes de comprar.",
+        "summary": "La SERP actual combina listicles editoriales de temporada, páginas comerciales de abrigos y guías de armario cápsula. Predominan galerías de producto y recomendaciones por tendencia; el gap editorial es una guía de decisión por clima, tejido, corte, durabilidad y coste por uso.",
+        "page_types": [
+          "listicles editoriales de moda",
+          "categorías ecommerce de abrigos",
+          "guías de armario cápsula",
+          "selecciones shopping"
+        ],
+        "top_relevant_results": [
+          "Vogue España: abrigos para mujer / tendencias",
+          "Glamour España: abrigos de temporada",
+          "El Corte Inglés: selección shopping de abrigos",
+          "Hola Shopping: abrigos y gabardinas",
+          "COS / Ralph Lauren / Zara: armario cápsula o categorías comerciales"
+        ],
+        "coverage_gaps": [
+          "poca orientación por clima húmedo y uso real",
+          "exceso de producto de temporada sin método de compra",
+          "escasa separación entre abrigo atemporal, gabardina e impermeable",
+          "pocas señales prácticas de calidad, talla, movimiento y reparación"
+        ]
+      },
+      "sources": [
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://environment.ec.europa.eu/topics/circular-economy-topics/eu-ecolabel/product-groups-and-criteria/clothing-and-textiles_en",
+        "https://www.wrap.ngo/resources/report/durability-fashions-next-competitive-advantage",
+        "https://www.europarl.europa.eu/topics/es/article/20201208STO93327"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-prendas-atemporales-mujer/",
+        "https://pacaytola.com/blog/mejores-prendas-armario-capsula/",
+        "https://pacaytola.com/guia-de-tallas/",
+        "https://pacaytola.com/cambios-y-devoluciones/"
+      ],
+      "featured_image": "/assets/mejores-abrigos-atemporales-mujer.jpg",
+      "review": {
+        "editorial": "Second-pass review completed: BOFU/listicle intent matched, 1,812 words, no fabricated reviews, prices, experts, testing or personal experience; claims are limited to general garment-selection criteria and cited textile-policy sources.",
+        "seo": "Unique title/H1/meta, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, TOC, comparison table, 4 external sources, 4 contextual internal links, featured image alt, blog index and sitemap updated."
+      },
+      "verification": {
+        "status": "pending_public_deploy_verification",
+        "checked_at": "2026-08-14T16:50:00+02:00",
+        "checks": [
+          "clean temporary clone build passed with Eleventy 3.1.6",
+          "static HTML checks passed for H1, canonical, meta description, Open Graph image, Article and FAQ schema",
+          "awaiting push and Cloudflare custom-domain verification"
+        ]
+      }
     }
   ],
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-14",
   "articles": [
     {
       "keyword": "calzado barefoot y slow fashion: cómo comprar menos pares y usarlos mejor",
