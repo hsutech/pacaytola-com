@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-08-14T16:50:00+02:00",
+  "updated_at": "2026-08-16T10:10:54+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -1485,12 +1485,12 @@
     {
       "keyword": "mejores abrigos atemporales para mujer",
       "priority": "Media",
-      "status": "pushed_unverified",
+      "status": "published",
       "slug": "mejores-abrigos-atemporales-mujer",
       "title": "Mejores abrigos atemporales para mujer: 10 tipos para comprar con criterio",
       "url": "https://pacaytola.com/blog/mejores-abrigos-atemporales-mujer/",
       "selected_at": "2026-08-14",
-      "published_at": null,
+      "published_at": "2026-08-16",
       "serp_observations": {
         "market": "Google ES / Gijón y Asturias",
         "language": "Español",
@@ -1530,21 +1530,32 @@
       ],
       "featured_image": "/assets/mejores-abrigos-atemporales-mujer.jpg",
       "review": {
-        "editorial": "Second-pass review completed: BOFU/listicle intent matched, 1,812 words, no fabricated reviews, prices, experts, testing or personal experience; claims are limited to general garment-selection criteria and cited textile-policy sources.",
-        "seo": "Unique title/H1/meta, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, TOC, comparison table, 4 external sources, 4 contextual internal links, featured image alt, blog index and sitemap updated."
+        "editorial": "Second-pass review completed before final deploy: BOFU/listicle intent matched, public-facing SERP notes removed, no fabricated reviews, prices, experts, testing or personal experience; claims are limited to practical garment-selection criteria and cited textile-policy sources.",
+        "seo": "Unique title/H1/meta, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, TOC, comparison table, 4 external sources, 4 contextual internal links, featured image alt, blog index and sitemap updated with 2026-08-16 dates."
       },
       "verification": {
-        "status": "pending_public_deploy_verification",
-        "checked_at": "2026-08-14T16:50:00+02:00",
+        "status": "verified_published",
+        "verified_at": "2026-08-16T10:10:54+02:00",
         "checks": [
-          "clean temporary clone build passed with Eleventy 3.1.6",
-          "static HTML checks passed for H1, canonical, meta description, Open Graph image, Article and FAQ schema",
-          "awaiting push and Cloudflare custom-domain verification"
-        ]
-      }
+          "GitHub API commit pushed to main",
+          "GitHub Actions Cloudflare Pages workflow succeeded",
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "Article schema datePublished/dateModified updated to 2026-08-16",
+          "Open Graph image reference present",
+          "featured image returned image/jpeg",
+          "blog index contains article with 2026-08-16 date",
+          "sitemap contains article and blog lastmod 2026-08-16",
+          "desktop and mobile Chrome headless screenshots inspected"
+        ],
+        "article_commit": "8089b464489bade4796da06fd0e8e361e42f236e",
+        "workflow_run": "https://github.com/hsutech/pacaytola-com/actions/runs/31935671626"
+      },
+      "commit": "8089b46"
     }
   ],
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-16",
   "articles": [
     {
       "keyword": "calzado barefoot y slow fashion: cómo comprar menos pares y usarlos mejor",
