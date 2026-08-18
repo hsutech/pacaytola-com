@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-08-16T10:10:54+02:00",
+  "updated_at": "2026-08-18T16:51:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -1553,6 +1553,85 @@
         "workflow_run": "https://github.com/hsutech/pacaytola-com/actions/runs/31935671626"
       },
       "commit": "8089b46"
+    },
+    {
+      "keyword": "mejores bolsos sostenibles",
+      "priority": "Media",
+      "status": "published",
+      "slug": "mejores-bolsos-sostenibles",
+      "title": "Mejores bolsos sostenibles: 10 opciones para comprar con criterio",
+      "url": "https://pacaytola.com/blog/mejores-bolsos-sostenibles/",
+      "selected_at": "2026-08-18",
+      "published_at": "2026-08-18",
+      "commit": "bd0eef825b7b4283b3a89c83f7edd7ae109f1960",
+      "content_commit": "909745302b6fcbcb4cbfe15212df81473956ad4b",
+      "serp_observations": {
+        "market": "Google ES / Gijón y Asturias",
+        "language": "Español",
+        "summary": "La SERP actual es comercial/BOFU: listicles de marcas españolas, galerías editoriales, categorías de tiendas online y páginas de marcas propias. Gap editorial: comparativa por función, material, reparabilidad, tamaño, cierres, asas, transparencia y coste por uso, sin prometer que un material sea siempre superior.",
+        "intent": "Comercial / transaccional con necesidad de comparar bolsos sostenibles antes de comprar.",
+        "page_types": [
+          "listicles de marcas sostenibles",
+          "galerías de moda made in Spain",
+          "categorías ecommerce",
+          "páginas de marcas de bolsos",
+          "artículos de bolsos veganos"
+        ],
+        "top_relevant_results": [
+          "Essencialis",
+          "The Goood Shop",
+          "Vanity Fair España",
+          "Vogue España",
+          "Marie Claire España",
+          "Ecolover",
+          "Talentiam",
+          "Gogoa Bags"
+        ],
+        "coverage_gaps": [
+          "poca explicación de límites de materiales veganos o reciclados",
+          "escasa evaluación de reparabilidad y construcción",
+          "muchas selecciones de marcas sin método de compra",
+          "poca conexión entre sostenibilidad y uso real/coste por uso"
+        ]
+      },
+      "sources": [
+        "https://essencialis.es/los-mejores-bolsos-sostenibles-made-in-spain/",
+        "https://thegooodshop.com/categoria/bolsos/",
+        "https://www.revistavanityfair.es/galerias/10-bolsos-made-in-spain-sostenibles-y-hechos-a-mano-con-los-que-comenzar-el-ano",
+        "https://www.vogue.es/articulos/bolsos-hechos-espana-verano",
+        "https://www.marie-claire.es/moda/31305.html",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.eea.europa.eu/en/analysis/publications/circularity-of-the-eu-textiles-value-chain-in-numbers",
+        "https://www.unep.org/topics/chemicals-and-pollution-action/circularity-sectors/sustainable-and-circular-textiles"
+      ],
+      "internal_links": [
+        "https://pacaytola.com/blog/mejores-marcas-moda-sostenible-mujer/",
+        "https://pacaytola.com/blog/mejores-prendas-armario-capsula/",
+        "https://pacaytola.com/blog/mejores-pantalones-comodos-mujer/",
+        "https://pacaytola.com/blog/mejores-zapatos-comodos-mujer/",
+        "https://pacaytola.com/cambios-y-devoluciones/",
+        "https://pacaytola.com/categoria/accesorios/"
+      ],
+      "featured_image": "/assets/mejores-bolsos-sostenibles.jpg",
+      "review": {
+        "editorial": "Second-pass review completed: no fabricated rankings, prices, first-hand testing, reviews, experts or universal sustainability claims; public SERP wording removed and material claims limited.",
+        "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, table of contents, comparison table, internal/external links, blog index and sitemap updated."
+      },
+      "verification": {
+        "status": "verified_published",
+        "verified_at": "2026-08-18T16:51:00+02:00",
+        "checks": [
+          "Cloudflare Pages workflow 32150686390 completed successfully",
+          "custom domain HTTP 200",
+          "expected H1 present",
+          "canonical correct",
+          "featured image returned HTTP 200 image/jpeg",
+          "blog index contains article",
+          "sitemap contains article",
+          "desktop Chrome headless screenshot nonblank at 1440x1400",
+          "mobile CSS @media typo fixed and deployed"
+        ]
+      }
     }
   ],
   "lastUpdated": "2026-08-16",
