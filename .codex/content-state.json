@@ -1,6 +1,6 @@
 {
   "domain": "pacaytola.com",
-  "updated_at": "2026-08-18T16:51:00+02:00",
+  "updated_at": "2026-08-21T12:52:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de moda sostenible en Gijón",
@@ -838,20 +838,28 @@
         "editorial": "Second-pass review completed before build: Spanish article tailored to Paca y Tola, no fabricated first-hand review, no absolute winner, Lejan framed as one option and product facts limited to Lejan official site.",
         "seo": "Unique title/H1, meta description, canonical, Open Graph image, Article/Breadcrumb schema, FAQ schema for visible FAQs only, TOC, internal links, external sources, blog index and sitemap updated."
       },
-      "commit": "1b84b82",
+      "commit": "7705896",
       "verification": {
         "status": "verified_published",
-        "verified_at": "2026-07-31T11:34:00+02:00",
+        "verified_at": "2026-08-21T12:52:00+02:00",
         "checks": [
           "custom domain HTTP 200",
-          "expected H1 present",
+          "expected campaign H1 present",
+          "generic replacement H1 absent",
           "canonical correct",
-          "featured image returned image/png and rendered path present",
-          "blog index contains article",
+          "required Lejan anchor appears exactly once",
+          "Article, Breadcrumb and visible FAQ schema present",
+          "featured image path present and image returned image/png",
+          "blog listing contains ASCII article URL and image path",
+          "blog listing no longer contains accented broken campaign URL",
           "sitemap contains article"
         ],
-        "notes": "Local Eleventy CLI stalled during npm run build in this workspace, but GitHub/Cloudflare deployment completed and public-domain checks passed."
-      }
+        "notes": "Reverified after restoring the extra Lejan campaign article body and repairing broken blog listing URLs on main. Local npm run build still stalls in Eleventy, so verification used static checks plus custom-domain checks."
+      },
+      "repair_commits": [
+        "5ad1815",
+        "7705896"
+      ]
     },
     {
       "keyword": "slow fashion marcas españolas",
