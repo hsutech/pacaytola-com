@@ -72,3 +72,29 @@ Factual review: clarified Groundies Barefoot Fit versus narrower variants; remov
 Editorial review: approximately 1,700 words; ten numbered choices; criteria before ranking; useful wardrobe/fit tradeoffs; no hands-on or medical guarantees. Lejan remains #1 for fashion, Vivo remains running category winner only. Original generic SVG illustration retained with honest caption.
 SEO review: unique H1, unchanged canonical and OG image; Article dateModified updated while datePublished preserved; visible FAQs and FAQ schema unchanged; zero article-body anchors; sitemap lastmod updated for only this URL.
 Validation: npm ci and npm run build PASSED on isolated current-main copy (Eleventy 3.1.6, 73 pages, 54 assets copied). Original checkout build stalled and was stopped. Static checks passed: one H1, ten ranked headings, zero body links, three parseable JSON-LD blocks. Pre-push live page/image and responsive width checks passed at 1280 and 390 CSS pixels.
+
+
+## Extra campaign refresh — 2026-10-30
+Status: validated for publication; live verification recorded in automation memory after deploy.
+Baseline: 6277fd16274281bb38e772a9433104c41bdf5b8c. Downloaded current remote main archive; preserved the stalled local checkout and existing changes. No normal queue row changed.
+Intent audit: existing target is the only page for pretty barefoot sneakers for outfits. Broader Spanish-brand, slow-fashion and comfortable-shoe articles remain separate. Updated existing URL, no duplicate.
+SERP: Spanish query “mejores zapatillas barefoot bonitas mujer vestir España” returned fashion listicles and model comparisons. Read Glamour's gallery; outfit fit, silhouette and everyday use remain central. Avoided copying health claims or claiming competitors' testing as our own.
+
+Official sources consulted on 2026-10-30:
+- https://lejanbrand.com/ and https://lejanbrand.com/collections/barefoot-para-mujer/products/lejan-melrose-white — current One/Melrose catalogue; anatomical toe, flexible thin sole, zero drop. Melrose page has both cart and sold-out controls; stock remains explicitly size/colour-dependent.
+- https://groundies.com/en-eu/products/universe-women — leather, TrueSense, zero heel and anatomical toe; fit/size notes vary by variant.
+- https://www.barebarics.es/barefoot-sneakers-barebarics-zing-all-white-leather/ — urban model, anatomical fit, zero drop, flexible sole; ready-to-ship sizes.
+- https://www.belenka.com/barefoot-sneakers-be-lenka-rebound-black/ — Rebound available sizes, anatomical shape, zero drop, flexibility. Removed secondary Core model to keep recommendation tied to checked product.
+- https://feelgrounds.com/en-usa/products/original-knit — recycled PET upper, flexible knit, care instructions and variant selector.
+- https://xeroshoes.eu/products/dillon-canvas-women — canvas, wide toe, zero-drop heel, flexible sole.
+- https://www.saguaro.com/products/roam-1 — canvas casual shoe, flexible sole, active size selection; no exact price published.
+- https://zapatoferoz.es/collections/zapatos-adulto — Faura Freeker/Tejano adult catalogue, textile and microfibre, size choices/cart. Individual Faura product fetch intermittently failed; used official catalogue rather than inventing stock.
+- https://www.vivobarefoot.com/uk/primus-lite-iv-womens — running/training description, stock indicator, recycled components and Vegan* caveat.
+- https://www.merrell.com/ES/es_ES/vapor-glove-6-boa/60190W.html — barefoot construction, BOA, Vibram Ecostep Recycle; in-stock variants in page inventory.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC5602809/ — full text of Warne/Gruber review; replaced vague recent-research claim with named review and evidence limitations.
+SERP source read: https://www.glamour.es/galerias/zapatillas-barefoot-mujer
+
+Separate factual review: claims remain attributed to manufacturers, no own testing, exact prices, guarantees or blanket stock claims. Category winners are editorial judgements: Lejan #1 for fashion, Vivo for running only. Lejan explicitly excluded from running/trail/high-impact use. Added distinction between barefoot design and environmental certification; no sustainability guarantee.
+Separate editorial review: 1,787 words; criteria before ten ranked options; plain-text contents; localized Gijón rain/wardrobe advice; category tradeoffs; author and honest original generic SVG retained. No false product-photo claim.
+Separate SEO review: one H1, stable canonical/OG URL, Article/Breadcrumb/FAQ JSON-LD parse; FAQ text matches visible content; zero article anchors/buttons/click handlers. Publication date preserved; modified date and target-only sitemap lastmod updated. Blog listing already links to target.
+Validation: npm ci and npm run build passed (73 pages, 54 assets). npm reported four existing high-severity dependency advisories; dependency changes outside campaign scope. Chrome/Playwright checks at 390, 768 and 1365px passed: image loaded, no article overflow, centered layout, ten ranking headings, zero body links, canonical, schemas, FAQ, blog and sitemap. Desktop/mobile screenshots inspected. Corrected fixed 346px tablet width to responsive centered width. Only article, its sitemap lastmod and this extra campaign ledger changed.
