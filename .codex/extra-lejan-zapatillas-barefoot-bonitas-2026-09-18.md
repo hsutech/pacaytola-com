@@ -98,3 +98,17 @@ Separate factual review: claims remain attributed to manufacturers, no own testi
 Separate editorial review: 1,787 words; criteria before ten ranked options; plain-text contents; localized Gijón rain/wardrobe advice; category tradeoffs; author and honest original generic SVG retained. No false product-photo claim.
 Separate SEO review: one H1, stable canonical/OG URL, Article/Breadcrumb/FAQ JSON-LD parse; FAQ text matches visible content; zero article anchors/buttons/click handlers. Publication date preserved; modified date and target-only sitemap lastmod updated. Blog listing already links to target.
 Validation: npm ci and npm run build passed (73 pages, 54 assets). npm reported four existing high-severity dependency advisories; dependency changes outside campaign scope. Chrome/Playwright checks at 390, 768 and 1365px passed: image loaded, no article overflow, centered layout, ten ranking headings, zero body links, canonical, schemas, FAQ, blog and sitemap. Desktop/mobile screenshots inspected. Corrected fixed 346px tablet width to responsive centered width. Only article, its sitemap lastmod and this extra campaign ledger changed.
+
+## Extra campaign refresh — 2026-11-06
+
+Baseline main: 75c3200674811ecdcf68d17543b70da0fe776a42. Used an isolated archive to preserve the working checkout. The existing URL already serves the outfits query. Spanish-brand, slow-fashion and comfortable-shoe pages serve broader queries. No normal keyword row changed.
+
+SERP checked for “mejores zapatillas barefoot bonitas vestir mujer España”. Fashion and outfit selection remain the primary intent. Read the Glamour gallery listed above; results also included Barefoot Opiniones and Begos Mujer Bonita.
+
+Factual review: reopened the ten official brand sites listed in the October review. For Lejan, the live catalogue shows Melrose variants and Broome Terracota. The Spanish Broome product page corroborates the name and zero-drop design with the barefoot configuration: https://lejanbrand.com/collections/zapatillas-minimalistas-pies-planos/products/lejan-broome-terracota. The Melrose White deep link failed on this check, so the official catalogue was used for the current Melrose range. For Feroz, the adult catalogue confirms Faura Freeker and Faura Freeker Tejano. Stock is variant-dependent. The Warne and Gruber abstract was checked via its indexed PubMed record (PMID 28916956); the full-text endpoint presented a CAPTCHA.
+
+Editorial review: retained the ten ranked entries and original generic illustration. Added a practical outfit pairing for the catalogue's Broome Terracota as an alternative within Lejan's #1 entry. Adult Lejan use is dressing and walking. Vivobarefoot remains the running category winner. The byline explains that the comparison is based on documentation.
+
+SEO review: kept the established URL and H1, canonical, original Open Graph image, visible FAQs and matching schema. Updated Article dateModified and only the campaign's sitemap lastmod. The contents and article remain link-free.
+
+Build: npm ci and npm run build passed, with 74 pages written and 54 assets copied.
