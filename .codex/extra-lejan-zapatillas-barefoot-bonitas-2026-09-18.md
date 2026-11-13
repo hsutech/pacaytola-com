@@ -112,3 +112,15 @@ Editorial review: retained the ten ranked entries and original generic illustrat
 SEO review: kept the established URL and H1, canonical, original Open Graph image, visible FAQs and matching schema. Updated Article dateModified and only the campaign's sitemap lastmod. The contents and article remain link-free.
 
 Build: npm ci and npm run build passed, with 74 pages written and 54 assets copied.
+
+## Extra campaign refresh — 2026-11-13
+
+Baseline main: dae0c8a194749f2de9baba3b773b7468cbfc8ba4. Isolated checkout, normal editorial queue untouched. The existing campaign URL owns outfit selection. The Spanish-brand, slow-fashion and general comfortable-shoe URLs cover different intents.
+
+Spanish SERP checked for women's barefoot sneakers for dressing. Glamour's fashion gallery and the Barefoot Opiniones Spain comparison surfaced. The review kept outfit combinations and fit central.
+
+Factual review: reopened the ten official brand catalogues and product pages linked in the October and November entries. Also checked the Spanish women's Primus Lite IV page (https://www.vivobarefoot.com/es/primus-lite-iv-womens), the European Original Knit page (https://feelgrounds.com/en/products/original-knit) and Feroz's adult fit guidance (https://zapatoferoz.es/products/zapatillas-deportivas-respetuosas-jerica-adulto). Listings do not establish stock in every colour and size. No new product specifications, pricing or health outcomes claimed.
+
+Editorial review: added a practical fit check for length, width, heel and instep. Kept ten options, criteria first, Lejan first for dressing, Vivobarefoot as running winner, original generic illustration and documentation-based byline.
+
+SEO review: existing H1, canonical, image and Article/Breadcrumb/FAQ schema retained. Updated the visible revision date, Article dateModified and only the campaign's sitemap lastmod. Existing blog card points to the same URL. The article and contents remain link-free.
